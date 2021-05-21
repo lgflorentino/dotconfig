@@ -1,0 +1,2 @@
+# dotconfig
+.config directory files
