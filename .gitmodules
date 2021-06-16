@@ -1,0 +1,9 @@
+[submodule "dotbot"]
+	path = dotbot
+	url = https://github.com/anishathalye/dotbot
+[submodule "config/nvim/pack/vendor/start/nerdtree"]
+	path = config/nvim/pack/vendor/start/nerdtree
+	url = https://github.com/preservim/nerdtree
+[submodule "config/nvim/pack/vendor/start/colorschemes"]
+	path = config/nvim/pack/vendor/start/colorschemes
+	url = https://github.com/flazz/vim-colorschemes
