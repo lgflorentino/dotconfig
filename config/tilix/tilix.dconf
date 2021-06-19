@@ -1,0 +1,95 @@
+[/]
+encodings=['UTF-8']
+prompt-on-delete-profile=true
+quake-hide-headerbar=true
+quake-specific-monitor=0
+session-name='${id}'
+tab-position='top'
+terminal-title-style='none'
+theme-variant='dark'
+window-style='borderless'
+
+[keybindings]
+app-preferences='<Primary><Shift>p'
+
+[profiles]
+default='58fdc653-f6fe-40ce-9f7c-31cd8226ccd2'
+list=['2b7c4080-0ddd-46c5-8f23-563fd3ba789d', '58fdc653-f6fe-40ce-9f7c-31cd8226ccd2']
+
+[profiles/2b7c4080-0ddd-46c5-8f23-563fd3ba789d]
+background-color='#000000000000'
+badge-color='#AC7EA8'
+badge-color-set=false
+bold-color-set=false
+cursor-colors-set=false
+cursor-shape='ibeam'
+font='Anonymous Pro for Powerline 14'
+foreground-color='#A1B0B8'
+highlight-colors-set=false
+login-shell=true
+palette=['#252525', '#FF5252', '#C3D82C', '#FFC135', '#42A5F5', '#D81B60', '#00ACC1', '#F5F5F5', '#708284', '#FF5252', '#C3D82C', '#FFC135', '#42A5F5', '#D81B60', '#00ACC1', '#F5F5F5']
+scrollback-lines=90000
+use-system-font=false
+use-theme-colors=false
+visible-name='Default'
+
+[profiles/58fdc653-f6fe-40ce-9f7c-31cd8226ccd2]
+allow-bold=true
+automatic-switch=@as []
+background-color='#000000000000'
+background-transparency-percent=2
+backspace-binding='tty'
+badge-color='#ffffff'
+badge-color-set=false
+badge-font='Anonymous Pro for Powerline 12'
+badge-position='northeast'
+badge-text='${id}'
+badge-use-system-font=false
+bold-color='#ffffff'
+bold-color-set=false
+bold-is-bright=true
+cell-height-scale=1.0
+cell-width-scale=1.0
+cjk-utf8-ambiguous-width='narrow'
+cursor-background-color='#000000'
+cursor-blink-mode='off'
+cursor-colors-set=false
+cursor-foreground-color='#ffffff'
+cursor-shape='block'
+custom-command=''
+custom-hyperlinks=@as []
+default-size-columns=120
+default-size-rows=40
+delete-binding='delete-sequence'
+dim-transparency-percent=0
+draw-margin=28
+encoding='UTF-8'
+exit-action='close'
+font='JuliaMono Medium 13'
+foreground-color='#A7A7A7'
+highlight-background-color='#000000'
+highlight-colors-set=false
+highlight-foreground-color='#ffffff'
+login-shell=true
+notify-silence-enabled=false
+notify-silence-threshold=0
+palette=['#1E1E1E', '#CF6A4C', '#8F9D6A', '#F9EE98', '#7587A6', '#9B859D', '#AFC4DB', '#A7A7A7', '#5F5A60', '#CF6A4C', '#8F9D6A', '#F9EE98', '#7587A6', '#9B859D', '#AFC4DB', '#FFFFFF']
+rewrap-on-resize=true
+scroll-on-keystroke=true
+scroll-on-output=false
+scrollback-lines=500000
+scrollback-unlimited=false
+select-by-word-chars='-,./?%&#:_'
+shortcut='disabled'
+show-scrollbar=true
+terminal-bell='icon'
+terminal-title='${process}${title}'
+text-blink-mode='always'
+triggers=@as []
+use-custom-command=false
+use-system-font=false
+use-theme-colors=false
+visible-name='lgflorentino'
+
+[profiles/ac756371-c407-4de5-90e4-79a26579cc8b]
+visible-name='lgflorentino'

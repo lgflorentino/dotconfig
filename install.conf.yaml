@@ -15,5 +15,6 @@
 
 - shell:
   - [git submodule update --init --recursive, Installing submodules]
+  - [dconf load /com/gexperts/Tilix/ < config/tilix/tilix.dconf]
 
 
