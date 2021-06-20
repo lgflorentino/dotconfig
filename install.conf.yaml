@@ -8,10 +8,14 @@
     ~/.tmux.conf: config/tmux/tmux.conf
     ~/.config/nvim: config/nvim
     ~/.gitconfig: config/git/gitconfig
+    ~/.config/river/init: config/river/init
+    ~/.zshrc: config/zsh/zshrc
+    ~/.config/zsh: config/zsh
 
 - create:
     - ~/downloads
     - ~/.vim/undo-history
+    - ~/.local/share/fonts
 
 - shell:
   - [git submodule update --init --recursive, Installing submodules]
